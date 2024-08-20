@@ -92,7 +92,7 @@ En ésta etapa también debí elaborar y graficar los siguientes KPIs:<br />
 Para no hacer tan extenso éste readme, se invita al lector a consultar el siguiente **[script](https://github.com/maferhel/PI2H/blob/main/PI2H.ipynb)** para conocer cuáles son las conclusiones a las que arribé a lo largo de todo el análisis exploratorio de datos.<br />
   
 **5. DISPONIBILIZACIÓN DE DASHBOARD.** <br />
-Utilizando la herramienta de Power BI la información obtenida del paso anterior fue plasmada en un lienzo, de un modo tal que se pueda narrar la historia que nos muestran esos datos, **[dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGFiNWM4OWEtMjc3Yy00MmNiLWIyZDUtMjkwODNhYzI1MWY0IiwidCI6ImFlMGI3Mzk4LWFkMmEtNGQ2Ni1iNjQ1LWY4NjlkNTEwYmU2NSIsImMiOjR9&pageName=ReportSection)**.<br />
+Utilizando la herramienta de Power BI la información obtenida del paso anterior fue plasmada en un lienzo, de un modo tal que se pueda narrar la historia que nos muestran esos datos, navega por el dashboard **[aquí](https://app.powerbi.com/view?r=eyJrIjoiNGFiNWM4OWEtMjc3Yy00MmNiLWIyZDUtMjkwODNhYzI1MWY0IiwidCI6ImFlMGI3Mzk4LWFkMmEtNGQ2Ni1iNjQ1LWY4NjlkNTEwYmU2NSIsImMiOjR9&pageName=ReportSection)**.<br />
 
 
 
